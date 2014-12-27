@@ -1,0 +1,12 @@
+if TARGET_NSA220
+
+config SYS_BOARD
+	default "nsa220"
+
+config SYS_VENDOR
+	default "ZyXEL"
+
+config SYS_CONFIG_NAME
+	default "nsa220"
+
+endif
